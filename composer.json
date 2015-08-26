@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    {
+      "type": "artifact",
+      "url": "ckfinder/"
+    }
+  ]
+}
