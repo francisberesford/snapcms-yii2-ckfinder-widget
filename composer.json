@@ -1,6 +1,6 @@
 {
-  "version": "3.0",
-  "name": "ckfinder/ckfinder",
+  "version": "3.0.0",
+  "name": "snapfrozen/ckfinder",
   "description": "CKFinder, a powerful online Ajax file manager",
   "homepage": "https://cksource.com/ckfinder",
   "repositories": [
